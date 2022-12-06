@@ -1,2 +1,2 @@
 # computerVision-dynamic-mapping
-This repository includes codes for calculating homography values dynamically.
+This repository includes codes that calculate homography values dynamically.
